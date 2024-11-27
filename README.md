@@ -8,6 +8,10 @@ An AI-optimized, chain-agnostic stablecoin aggregator that simplifies DeFi passi
 
 *Business plan can be found here: https://tinyurl.com/Stakeroo-businessplan*
 
+*www.stakeroo.com*
+
+*Bahila@stakeroo.com*
+
 ---
 
 ## Executive Summary
