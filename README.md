@@ -2,11 +2,8 @@
 An AI-optimized, chain-agnostic stablecoin aggregator that simplifies DeFi passive earnings —from staking to liquidity provision— into a non-custodial, one-click solution designed for non-crypto users and businesses.
 
 ## Business Plan 
-### Confidential 
 
-*Pitchdeck can be found here: https://tinyurl.com/stakeroo-pitchdeck*
-
-*Business plan can be found here: https://tinyurl.com/Stakeroo-businessplan*
+*Please note that any additional resources, including business plan, financial plans, or user growth projections, are available upon request.*
 
 *www.stakeroo.com*
 
