@@ -77,3 +77,4 @@ In addition to the volatility & unpredictable returns of crypto investments, ove
 3. One-Click Investment Experience Option
 4. Comprehensive Automation
 
+![alt text](features.jpg)
