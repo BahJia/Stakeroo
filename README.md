@@ -24,9 +24,9 @@ For businesses, Stakeroo enhances treasury management by securely growing reserv
 
 ### Mission
 
-> Destigmatize the blockchain space by shifting away from “get rich quick” narratives to responsible, sustainable growth.
-> Bridge the gap between the real world and blockchain, making it more trustworthy and accessible for new users and businesses.
-> Promote financial inclusion and smart investment options for everyone, especially in times of inflation.
-> Drive the mass adoption of blockchain by creating a trusted, one source of truth, and an easy-to-use platform for non-trading passive earnings.
-> Increase awareness about blockchain as a complex, innovative ecosystem beyond just cryptocurrencies.
-> Make crypto investing straightforward, accessible, and manageable for both individuals and businesses
+> - Destigmatize the blockchain space by shifting away from “get rich quick” narratives to responsible, sustainable growth.
+> - Bridge the gap between the real world and blockchain, making it more trustworthy and accessible for new users and businesses.
+> - Promote financial inclusion and smart investment options for everyone, especially in times of inflation.
+> - Drive the mass adoption of blockchain by creating a trusted, one source of truth, and an easy-to-use platform for non-trading passive earnings.
+> - Increase awareness about blockchain as a complex, innovative ecosystem beyond just cryptocurrencies.
+> - Make crypto investing straightforward, accessible, and manageable for both individuals and businesses
