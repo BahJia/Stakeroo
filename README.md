@@ -59,4 +59,21 @@ Stakeroo is the first non-custodial, AI-powered platform that transforms non-tra
 - Mobile access to monitor earnings anytime, anywhere.
 - Over 500 sign-ups within two weeks.
 
+---
+
+### Problem
+
+In addition to the volatility & unpredictable returns of crypto investments, overwhelming choices, and perception of risk and scams, DeFi aggregators have been created to simplify the complex DeFi landscape by consolidating various protocols and investment opportunities into single platforms. However, existing DeFi aggregators face several significant problems that hinder user experience, security, and investment efficiency:
+- high entry barriers
+- Complexity & inaccessibility of DeFi markets
+- Fragmentation of the blockchain ecosystems
+
+### Solution
+
+> We recognized that nowadays both individuals; especially those new to or unfamiliar with crypto, as well as businesses share **a common desire for stable, volatile-free returns to fight inflation and grow their wealth, savings, and reserves.** Our goal is to lower entry barriers, enhance user confidence, increase crypto adoption, and improve security.
+
+1. Exclusive Trusted Stablecoin-Based Investments
+2. Advanced AI Optimization and Automation
+3. One-Click Investment Experience Option
+4. Comprehensive Automation
 
