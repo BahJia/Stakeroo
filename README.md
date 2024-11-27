@@ -1,5 +1,5 @@
 # Stakeroo
-AI-optimized stablecoin aggregator designed for non-crypto users &amp; businesses
+An AI-optimized, chain-agnostic stablecoin aggregator that simplifies DeFi passive earnings —from staking to liquidity provision— into a non-custodial, one-click solution designed for non-crypto users and businesses.
 
 ## Business Plan 
 ### Confidential 
